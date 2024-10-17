@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This portfolio is a reflection of m
 
 ## 🔗 Live Portfolio
 
-Check out the live version of my portfolio here: [GitHub Pages Link]([https://yourusername.github.io/portfolio/](https://tkarthick-portfolio.netlify.app/))
+Check out the live version of my portfolio here: [GitHub Pages Link](https://tkarthick-portfolio.netlify.app/)
 
 ## 📝 Important Note
 
